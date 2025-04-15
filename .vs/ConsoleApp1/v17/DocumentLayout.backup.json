@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFDBEA9-06E3-4241-96B7-5476B25E36EB}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\consoleapp1\\consoleapp1tests\\gamemessagestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFDBEA9-06E3-4241-96B7-5476B25E36EB}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\gamemessagestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\consoleapp1\\consoleapp1\\gamemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gamemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFDBEA9-06E3-4241-96B7-5476B25E36EB}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\consoleapp1\\consoleapp1tests\\gamesettingsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFDBEA9-06E3-4241-96B7-5476B25E36EB}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\gamesettingsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\consoleapp1\\consoleapp1\\gamesettingsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gamesettingsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\consoleapp1\\consoleapp1\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA72EDA-9B52-48C7-8AFE-9177459D5332}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Title": "GameMessagesTests.cs",
+              "DocumentMoniker": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1Tests\\GameMessagesTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\GameMessagesTests.cs",
+              "ToolTip": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1Tests\\GameMessagesTests.cs",
+              "RelativeToolTip": "ConsoleApp1Tests\\GameMessagesTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T12:32:01.435Z",
+              "WhenOpened": "2025-04-15T12:58:31.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMessages.cs",
+              "DocumentMoniker": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\GameMessages.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameMessages.cs",
+              "ToolTip": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\GameMessages.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameMessages.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:26:49.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSettingsBuilderTests.cs",
+              "DocumentMoniker": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1Tests\\GameSettingsBuilderTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\GameSettingsBuilderTests.cs",
+              "ToolTip": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1Tests\\GameSettingsBuilderTests.cs*",
+              "RelativeToolTip": "ConsoleApp1Tests\\GameSettingsBuilderTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:57:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameSettingsBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\GameSettingsBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameSettingsBuilder.cs",
+              "ToolTip": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\GameSettingsBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameSettingsBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:47:42.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberGuesser.cs",
+              "DocumentMoniker": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\NumberGuesser.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NumberGuesser.cs",
+              "ToolTip": "C:\\Users\\mashk\\\u0448\u0430\u0440\u043F\u044B\\ConsoleApp1\\ConsoleApp1\\NumberGuesser.cs",
+              "RelativeToolTip": "ConsoleApp1\\NumberGuesser.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:36:55.515Z",
               "EditorCaption": ""
             }
           ]
